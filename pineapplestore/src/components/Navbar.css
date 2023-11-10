@@ -1,0 +1,27 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #666666;
+  color: #eeeeee;
+}
+
+.element {
+  padding: 10px;
+}
+
+.element:hover {
+  color: #ffffff;
+  cursor: pointer;
+  background-color: #979797;
+}
+
+.elements{
+  display: flex; 
+  justify-content: space-evenly;
+}
+
+
+.logo {
+  height: 40px;
+  width: 60px;
+}
